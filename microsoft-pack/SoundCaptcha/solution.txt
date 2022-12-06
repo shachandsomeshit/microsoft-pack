@@ -1,0 +1,2 @@
+* solution = https://client-api.arkoselabs.com/fc/api/nojs/?pkey=029EF0D3-41DE-03E1-6971-466539B47725&litejs=1&fb_type=1&session=&r=eu-west-1&lang=en
+* height: 408px; width: 308px
